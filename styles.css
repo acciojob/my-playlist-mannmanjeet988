@@ -1,1 +1,28 @@
 /*  your css code here. If applicable */
+
+.player_one{
+	display:flex;
+	flex-direction:column;
+	background-color:white;
+	border: 1px solid grey;
+	text-color:black;
+	padding:10px;
+}
+a{
+/* 	text-color:balck; */
+	text-decoration:none;	
+	text-align:left;
+}
+
+.part-2{
+	display:flex;
+	flex-direction:column;
+	background-color:white;
+	border: 1px solid grey;
+	padding-top:8px;
+	align-items:center;
+	max-width:60%;
+}
+.player_two, .player_three{
+	text-align:center;
+}

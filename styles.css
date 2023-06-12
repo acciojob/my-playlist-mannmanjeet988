@@ -20,8 +20,10 @@ a{
 	background-color:white;
 	border: 1px solid grey;
 	padding-top:8px;
-	align-items:center;
+	margin: 0px 120px;
 	max-width:60%;
+/* 	align-items:center; */
+	
 }
 .player_two, .player_three{
 	text-align:center;

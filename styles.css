@@ -20,7 +20,8 @@ a{
 	background-color:white;
 	border: 1px solid grey;
 	padding-top:8px;
-	margin: 0px 120px;
+/* 	margin: 0px 120px; */
+	margin:auto;
 	max-width:60%;
 /* 	align-items:center; */
 	
